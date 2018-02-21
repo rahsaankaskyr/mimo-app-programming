@@ -1,0 +1,45 @@
+.mimo-programming
+
+#programming
+	- instructions & rules
+	- breaking down problems
+
+#convert instructions & rules into code
+#computer programs
+
+#sequences 
+	- simple commands in step-by-step order
+
+#sequential order
+	- variables
+	- label 
+	- content
+
+#computer - speak
+	- single letters
+	- single words
+	- valid label
+
+#purpose - information
+	- types of information
+	- words 
+	- numbers
+	- whole numbers
+	- floating-point numbers
+	- strings
+	- variables 
+	- boxes - values - lists
+	- multiple values
+
+#rules 
+	- conditions
+	- results of evaluations
+	- if - then 
+	- guide 
+	- behavior
+	- else
+
+#rules of programs - more intelligent
+
+#else if 
+	- alternative scenarios 
