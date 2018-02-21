@@ -1,0 +1,55 @@
+.mimo - swift - app building
+> art of app making / app dev
+	- programs - code
+	- list of instructions
+	- app are programs
+
+> apps / more than code
+	- user interface - see & touch
+	- tool	- write code
+		- IDE/integrated development environment
+
+> programming languages	> swift
+			> objective-c 
+	- declare a variable - swift
+	- var name = "Joe"
+	- declare a variable - objective-c 
+		NSString *name = @"Joe";
+	- Swift	> build server-side code
+		> build MacOS apps
+		> build iOS apps
+
+> beginning swift
+	- hello world
+		print("Hello world!")
+	- variables - store values
+		var task = "Learn to code"
+		print task
+	- change var
+		task = "program & earn money"
+
+> programs - written in code
+	- lists of instructions
+		- build apps, games, & websites
+	var love = "I love "
+	var juice = "orange juice"
+	print(love + juice + "!")
+	console - I love orange juice!
+
+> function - print()
+	- reveals the contents of the variables inside the parentheses
+	- variables - store (types )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
